@@ -1,0 +1,42 @@
+Metadata-Version: 1.2
+Name: EcDNAFinder
+Version: 0.1
+Summary: 
+***********************************************************
+* @File    : setup.py
+* @Author  : Zhou Wei                                     *
+* @Date    : 2020/12/11 20:42:39                          *
+* @E-mail  : welljoea@gmail.com                           *
+* @Version : --                                           *
+* You are using the program scripted by Zhou Wei.         *
+* If you find some bugs, please                           *
+* Please let me know and acknowledge in your publication. *
+* Thank you!                                              *
+* Best wishes!                                            *
+***********************************************************
+
+Home-page: https://github.com/WellJoea/EcDNAFinder
+Author: Wei Zhou
+Author-email: welljoea@gmail.com
+Maintainer: Wei Zhou
+License: UNKNOWN
+Description: UNKNOWN
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Classifier: Topic :: Scientific/Engineering :: Visualization
